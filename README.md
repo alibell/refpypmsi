@@ -10,6 +10,7 @@ Dernière mise à jour : 07 août 2020
 ```
     git clone https://gogs.alibellamine.me/alibell/refpypmsi.git
     cd refpypmsi
+    pip install -r requirements.txt
     pip install -e .
 ```
 
