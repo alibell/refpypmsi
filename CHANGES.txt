@@ -1,0 +1,2 @@
+1.0 : Première version
+    @TODO : Ne pas inclure les référentiels mais les télécharger depuis le git de refpmsi afin de garantir qu'ils soient toujours à jour
