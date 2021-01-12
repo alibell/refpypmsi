@@ -1,5 +1,7 @@
 # refpypmsi
 
+Original repository : https://gogs.alibellamine.me/alibell/refpypmsi
+
 Il s'agit d'une implémentation en Python de la librairie R refpmsi.
 La librairie refpmsi est disponible à l'adresse suivante : https://github.com/denisGustin/refpmsi
 
