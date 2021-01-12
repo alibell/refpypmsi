@@ -8,6 +8,6 @@ setup(name='refpypmsi',
       author='Ali BELLAMINE',
       author_email='contact@alibellamine.me',
       description='Implémentation en Python de la librairie refpmsi (https://github.com/denisGustin/refpmsi).',
-      packages=find_packages(),
+      packages=["refpypmsi"],
       long_description=open('README.md').read(),
     )

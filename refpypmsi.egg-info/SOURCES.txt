@@ -2,6 +2,7 @@ CHANGES.txt
 MANIFEST.in
 README.md
 setup.py
+refpypmsi/__init__.py
 refpypmsi.egg-info/PKG-INFO
 refpypmsi.egg-info/SOURCES.txt
 refpypmsi.egg-info/dependency_links.txt

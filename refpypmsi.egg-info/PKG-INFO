@@ -8,6 +8,8 @@ Author-email: contact@alibellamine.me
 License: UNKNOWN
 Description: # refpypmsi
         
+        Original repository : https://gogs.alibellamine.me/alibell/refpypmsi
+        
         Il s'agit d'une implémentation en Python de la librairie R refpmsi.
         La librairie refpmsi est disponible à l'adresse suivante : https://github.com/denisGustin/refpmsi
         
@@ -18,10 +20,12 @@ Description: # refpypmsi
         ```
             git clone https://gogs.alibellamine.me/alibell/refpypmsi.git
             cd refpypmsi
+            pip install -r requirements.txt
             pip install -e .
         ```
         
         ## Utilisation
         
         Se reporter au [manuel d'utilisation de refpmsi](https://denisgustin.github.io/refpmsi/articles/fonctions_refpmsi.html).
+        
 Platform: UNKNOWN
