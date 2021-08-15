@@ -10,4 +10,5 @@ setup(name='refpypmsi',
       description='Implémentation en Python de la librairie refpmsi (https://github.com/denisGustin/refpmsi).',
       packages=["refpypmsi"],
       long_description=open('README.md').read(),
+      package_data={'refpypmsi': ['inst/referentiels/*']}
     )
